@@ -46,6 +46,15 @@ Sou desenvolvedor full stack e gosto de conectar todas as partes de uma aplicaç
 ![Railway](https://img.shields.io/badge/Railway-161B22?style=for-the-badge&logo=railway&logoColor=white)
 
 
+## Projetos
+
+### [Instituto de Biorressonância](https://www.institutodebiorressonancia.com/)
+
+Site institucional do Instituto de Biorressonância.
+
+[Visitar o site ↗](https://www.institutodebiorressonancia.com/)
+
+
 ---
 
 <div align="center">
