@@ -45,12 +45,6 @@ Sou desenvolvedor full stack e gosto de conectar todas as partes de uma aplicaç
 ![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Railway](https://img.shields.io/badge/Railway-161B22?style=for-the-badge&logo=railway&logoColor=white)
 
-## Projetos
-
-| Projeto | Proposta | Tecnologias |
-| :--- | :--- | :--- |
-| [CeschiControl · Fintech](https://github.com/leonardoehrhardtramos/ceschicontrol-fintech) | Projeto de fintech desenvolvido na FIAP. | HTML, CSS e Tailwind CSS |
-| [Study API](https://github.com/leonardoehrhardtramos/Study-API) | Repositório de estudos de API. | JavaScript |
 
 ---
 
